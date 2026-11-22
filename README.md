@@ -12,6 +12,8 @@ CIRCUIT-WORKBENCH — repository foundation
 
 Circuit Workbench is being built as the thin, headless-backed operator inspection and review client of the circuit platform. It renders design views, run observations, acceptance reports, autonomy ceilings and canonical approval digests with their custodied evidence summaries — containing zero UI-only design, verification, learning or actuation logic. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed workbench client, workspace-session service, review renderer or qualified record schema.
 
+Circuit Workbench is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - a workbench client, session server or review-view renderer;
 - a registered runtime record schema;
