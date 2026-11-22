@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "CIRCUIT-WORKBENCH",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "ebfae1aceafcef87f0eebbfd14190f1befe62b82599ac3a9c519a070a111c8d3"
+  }
+}
